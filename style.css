@@ -8,7 +8,8 @@ html,body{
     height: 100%;
     width: 100%;
     font-family: sans-serif;
-    background-color: rgb(238, 233, 223);
+    /* background-color: rgb(238, 233, 223); */
+    background-color: rgb(88, 74, 74);
 }
 #main{
     height: 100%;
