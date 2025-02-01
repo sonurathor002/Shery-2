@@ -8,6 +8,7 @@ html,body{
     height: 100%;
     width: 100%;
     font-family: sans-serif;
+    background-color: rgb(238, 233, 223);
 }
 #main{
     height: 100%;
